@@ -51,8 +51,8 @@ const StarsCanvas = () => (
         <Suspense fallback = {null}>
             <StarBackground/>
         </Suspense>
-    </Canvas>
+    </Canvas>  
     </div>
 );
 export default StarsCanvas;
-// end 
+// end fd
