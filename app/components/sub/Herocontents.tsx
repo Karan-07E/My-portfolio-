@@ -26,7 +26,7 @@ export const Herocontents = () => {
             className='flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto'
             >
                 <span>
-                Hello Everyone I'm 
+                Hello Everyone I&apos;m 
                 <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'>
                     {" "}Karan M{" "}
                 </span> 
@@ -37,7 +37,7 @@ export const Herocontents = () => {
             <motion.p
             variants={slideInFromLeft(0.8)}
             className='text-lg text-gray-400 my-5 max-w-[600px]'>
-                &apos;Im a Passionate Software Developer With Experience in Website, 
+                I&apos;m a Passionate Software Developer With Experience in Website, 
                 Android, and Software Solutions. Check out my Projects and Skills.
             </motion.p>
 
